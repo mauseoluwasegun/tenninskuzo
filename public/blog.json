@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering the Perfect Serve: A Step-by-Step Guide",
+    "author": "Mohammed Bashiru",
+    "date": "2024-05-15",
+    "tags": ["technique", "serving"],
+    "image": "https://images.unsplash.com/photo-1554068884-6c39e332154a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "A powerful and consistent serve can be a game-changer. In this guide, we break down the mechanics of a perfect serve, from the toss to the follow-through."
+  },
+  {
+    "id": 2,
+    "title": "Nutrition for Tennis Players: Fueling Your Match",
+    "author": "Sarah Williams",
+    "date": "2024-05-10",
+    "tags": ["health", "nutrition"],
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "What you eat before, during, and after a match can significantly impact your performance. Learn about the best foods and hydration strategies for tennis players."
+  },
+  {
+    "id": 3,
+    "title": "Mental Toughness: The Key to Winning Close Matches",
+    "author": "David Chen",
+    "date": "2024-05-05",
+    "tags": ["mindset", "strategy"],
+    "image": "https://images.unsplash.com/photo-1521587509524-275e1a74a448?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "Tennis is as much a mental game as it is a physical one. Discover techniques to stay focused, manage pressure, and build the mental resilience of a champion."
+  },
+  {
+    "id": 4,
+    "title": "Choosing the Right Tennis Racket for Your Game",
+    "author": "Marcus Johnson",
+    "date": "2024-04-28",
+    "tags": ["equipment", "gear"],
+    "image": "https://images.unsplash.com/photo-1560015534-cee98007743d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "Your racket is your most important tool. This post explores the factors to consider when selecting a new racket, including head size, weight, balance, and string pattern."
+  },
+  {
+    "id": 5,
+    "title": "Common Tennis Injuries and How to Prevent Them",
+    "author": "Emily Rodriguez",
+    "date": "2024-04-22",
+    "tags": ["health", "prevention"],
+    "image": "https://images.unsplash.com/photo-1519823551232-723b7b6424df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "From tennis elbow to ankle sprains, injuries can sideline any player. Learn about the most common tennis injuries and effective strategies for prevention and recovery."
+  },
+  {
+    "id": 6,
+    "title": "The Importance of Footwork in Tennis",
+    "author": "Mohammed Bashiru",
+    "date": "2024-04-15",
+    "tags": ["technique", "footwork"],
+    "image": "https://images.unsplash.com/photo-1551643519-58a7424c160c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "Great footwork is the foundation of every shot. This article covers key footwork patterns and drills to improve your agility, balance, and court coverage."
+  }
+]
