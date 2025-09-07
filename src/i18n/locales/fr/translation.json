@@ -8,6 +8,7 @@
     "facilities": "Installations",
     "success_stories": "Témoignages",
     "events": "Événements",
+    "blog": "Blog",
     "contact": "Contact"
   },
   "common": {
@@ -196,6 +197,8 @@
     "coach_profiles": "Profils des Entraîneurs",
     "facility_tour": "Visite des Installations",
     "success_stories": "Témoignages",
+    "events": "Événements",
+    "blog": "Blog",
     "tournament_schedule": "Calendrier des Tournois",
     "student_portal": "Portail Étudiant",
     "parent_resources": "Ressources pour Parents",
