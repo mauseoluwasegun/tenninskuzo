@@ -1,58 +1,36 @@
-# Welcome to your Lovable project
+# KUZO TENNIS ACADEMY
 
-## Project info
+![KUZO Tennis Academy](public/images/logo.png)
 
-**URL**: https://lovable.dev/projects/5d28daa6-c4c6-4e06-8592-ef2937ea42b9
+## Where Champions Are Made
 
-## How can I edit this code?
+Experience world-class coaching, state-of-the-art facilities, and a community that drives excellence. At KUZO Tennis Academy, we transform passion into performance and potential into championships.
 
-There are several ways of editing your application.
+![Tennis Court](public/images/tennis-court-hero.jpg)
 
-**Use Lovable**
+## About Us
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5d28daa6-c4c6-4e06-8592-ef2937ea42b9) and start prompting.
+Founded by Mohammed Bashiru, former ATP Top 50 Professional Player with over 15+ years of coaching excellence, KUZO Tennis Academy is dedicated to developing champions both on and off the court.
 
-Changes made via Lovable will be committed automatically to this repo.
+### Our Core Values
 
-**Use your preferred IDE**
+- **Excellence** - Striving for the highest standards in everything we do, from coaching techniques to student care.
+- **Passion** - Fostering a genuine love for tennis that goes beyond winning and creates lifelong enthusiasts.
+- **Community** - Building strong relationships between students, families, and coaches that extend beyond the court.
+- **Growth** - Continuous improvement for both our students and academy, always reaching for new heights.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Professional coaching from former ATP players
+- State-of-the-art facilities with indoor and outdoor courts
+- Personalized training programs for all skill levels
+- Tournament preparation and competitive play opportunities
+- Modern 3D visualization training tools
+- Success stories showcase with inspiring student journeys
 
-Follow these steps:
+## Technologies Used
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
+This website is built with:
 
 - Vite
 - TypeScript
@@ -66,58 +44,49 @@ This project is built with:
 - React Three Drei
 - Mailchimp (for newsletter subscriptions)
 
-## Environment Configuration
+## Getting Started
 
-This project uses environment variables for configuration. Create a `.env` file in the root directory based on the `.env.example` file.
+### Prerequisites
 
-### Mailchimp Integration
+- Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-The project includes Mailchimp integration for newsletter subscriptions:
+### Installation
 
-1. Sign up at [Mailchimp](https://mailchimp.com/) to get your API key and audience ID
-2. Add the following variables to your `.env` file:
+```sh
+# Clone the repository
+git clone <repository-url>
+
+# Navigate to the project directory
+cd court-vision-kuzo-main
+
+# Install dependencies
+npm install
+
+# Create environment variables
+# Copy .env.example to .env and add your Mailchimp credentials
+cp .env.example .env
+
+# Start the development server
+npm run dev
+```
+
+## Deployment
+
+To deploy this project:
+
+1. Build the production version:
+   ```sh
+   npm run build
    ```
-   VITE_MAILCHIMP_API_KEY=your_actual_mailchimp_api_key_here
-   VITE_MAILCHIMP_SERVER_PREFIX=us1 # Change this to your server prefix (e.g., us1, us2, etc.)
-   VITE_MAILCHIMP_AUDIENCE_ID=your_actual_mailchimp_audience_id_here
-   ```
 
-## New Features Added
+2. Upload the contents of the `dist` folder to your web hosting provider.
 
-### Success Stories Page
-A dedicated page showcasing inspiring journeys of students, families, and coaches at KUZO Tennis Academy. Features include:
-- Story categorization (Student Journeys, Tournament Wins, Parent Stories, Coach Insights)
-- Advanced filtering and search functionality
-- Interactive story cards with metrics and achievements
-- Detailed story view with video testimonials
-- Like and share functionality
-- Statistics dashboard highlighting academy achievements
+3. For proper routing with React Router, configure your server to redirect all requests to index.html.
 
-### Modern Contact Page
-A redesigned contact page with modern UI elements and enhanced functionality:
-- Clean, minimalist form design with custom styling
-- Interactive 3D visualization using React Three Fiber
-- Testimonials section with glowing card effects
-- EmailJS integration for form submissions
-- Responsive design for all screen sizes
-- Custom animations and transitions
+## Contact
 
-### Interactive 3D Tennis Scene
-An engaging 3D visualization on the About page:
-- Realistic tennis court with proper markings
-- Animated tennis ball with physics-based bouncing
-- Rotating tennis racket for dynamic visual interest
-- Interactive orbit controls for 360-degree viewing
-- Responsive design that works on all devices
+For inquiries about KUZO Tennis Academy programs or website issues, please visit our [Contact Page](https://kuzotennis.com/contact).
 
-## How can I deploy this project?
+## License
 
-Simply open [Lovable](https://lovable.dev/projects/5d28daa6-c4c6-4e06-8592-ef2937ea42b9) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+© 2025 KUZO Tennis Academy. All rights reserved.

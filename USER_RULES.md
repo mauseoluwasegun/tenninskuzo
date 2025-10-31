@@ -120,6 +120,6 @@ This is a modern React web application for KUZO Tennis Academy built with:
 - Implement keyboard navigation support
 
 ## Deployment
-- Project is deployed via Lovable platform
+- Project is deployed via kuzoplatform
 - Use `npm run build` for production builds
 - Use `npm run dev` for development server
