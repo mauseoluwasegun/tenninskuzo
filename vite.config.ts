@@ -9,6 +9,9 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  preview: {
+    allowedHosts: ["kuzotennis-q65i.onrender.com"],
+  },
   plugins: [
     react(),
     mode === 'development' &&
